@@ -1,0 +1,41 @@
+{
+  "aquasecurity/trivy-action": {
+    "uses_lines": 1338,
+    "repos": 749,
+    "lines_by_class": {
+      "full_sha": 334,
+      "version_tag": 403,
+      "branch": 600,
+      "short_sha": 0,
+      "other": 1
+    },
+    "repos_all_full_sha": 173,
+    "repos_any_branch": 372
+  },
+  "aquasecurity/setup-trivy": {
+    "uses_lines": 1089,
+    "repos": 660,
+    "lines_by_class": {
+      "full_sha": 687,
+      "version_tag": 394,
+      "branch": 8,
+      "short_sha": 0,
+      "other": 0
+    },
+    "repos_all_full_sha": 410,
+    "repos_any_branch": 4
+  },
+  "Checkmarx/kics-github-action": {
+    "uses_lines": 347,
+    "repos": 331,
+    "lines_by_class": {
+      "full_sha": 128,
+      "version_tag": 180,
+      "branch": 39,
+      "short_sha": 0,
+      "other": 0
+    },
+    "repos_all_full_sha": 127,
+    "repos_any_branch": 34
+  }
+}

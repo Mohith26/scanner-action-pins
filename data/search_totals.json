@@ -1,0 +1,14 @@
+{
+  "aquasecurity/trivy-action": {
+    "search_total": 52480,
+    "sampled_files": 1000
+  },
+  "aquasecurity/setup-trivy": {
+    "search_total": 1312,
+    "sampled_files": 1000
+  },
+  "Checkmarx/kics-github-action": {
+    "search_total": 346,
+    "sampled_files": 346
+  }
+}
